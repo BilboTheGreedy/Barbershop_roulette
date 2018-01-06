@@ -1,0 +1,6 @@
+## Interface: 70300
+## Title: BarberRoulette
+## Author: Bilbo
+## Version: 1.0
+## SavedVariables: BR_SavedVars
+main.lua
