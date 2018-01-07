@@ -20,6 +20,12 @@ local function RandBarber()
 	for variable = math.random(8), 10, 1 do
 		SetNextBarberShopStyle(3);
 	end 
+	for variable = math.random(8), 10, 1 do
+		SetNextBarberShopStyle(4);
+	end 
+	for variable = math.random(8), 10, 1 do
+		SetNextBarberShopStyle(5);
+	end 
 	ApplyBarberShopStyle()
 end
 
